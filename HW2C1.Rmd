@@ -1,0 +1,23 @@
+---
+title: "Homework Assignment 2: Critique 1"
+author: "Vicki Hertzberg"
+date: "January 26, 2017"
+output: html_document
+---
+
+Directions: Samuels, et al. (2015) describe the use of the electronic health record in nursing research, discussing the challenges and opportunities. You can find this article at [this link](http://journals.sagepub.com/doi/pdf/10.1177/0193945915576778).
+
+Please write a critical evaluation of this article, building on what you have learned in class to date. Please address the following points:
+
+- Why did the authors take on this topic?
+- What is the importance of this topic?
+- What was the purpose of the article?
+- What are the key concepts / main points discussed?
+- Do the authors offer up evidence to support their main arguments?
+- How solid is this evidence?
+- Did the authors fulfill the purpose? 
+- What are the implications of their findings? 
+- Do you see any implications beyond the ones the authors discuss? If so, what are they?
+
+The completed assignment should not exceed two pages, double spaced. Upload the completed assignment to the course Canvas site. Please remember to include your name on the paper. Please also include a link to the markdown file in your repo.
+
